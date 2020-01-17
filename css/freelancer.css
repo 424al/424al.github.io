@@ -421,6 +421,8 @@ ul {
 .lead1 {
   font-size: 1.25rem;
   font-weight: 300;
+  width: 280px;
+  margin: 0 auto;
   text-align: left;
 }
 
